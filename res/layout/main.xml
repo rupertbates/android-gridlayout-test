@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/layout"
+            android:padding="0dip"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+    <!--<LinearLayout android:minWidth="100dip"-->
+                  <!--android:minHeight="80dip"-->
+                  <!--android:layout_column="0"-->
+                  <!--android:layout_columnSpan="2"-->
+                  <!--android:layout_row="0"-->
+                  <!--android:layout_rowSpan="2"-->
+                  <!--android:background="#FF0000"/>-->
+    <!--<LinearLayout android:layout_width="100dip"-->
+                  <!--android:layout_height="40dip"-->
+                  <!--android:layout_column="2"-->
+                  <!--android:layout_columnSpan="2"-->
+                  <!--android:layout_row="0"-->
+                  <!--android:layout_rowSpan="1"-->
+                  <!--android:background="#00FF00"/>-->
+    <!--<LinearLayout android:layout_width="50dip"-->
+                  <!--android:layout_height="40dip"-->
+                  <!--android:layout_column="3"-->
+                  <!--android:layout_columnSpan="1"-->
+                  <!--android:layout_row="1"-->
+                  <!--android:layout_rowSpan="1"-->
+                  <!--android:background="#FF00FF"/>-->
+    <!--<LinearLayout android:layout_width="50dip"-->
+                  <!--android:layout_height="40dip"-->
+                  <!--android:layout_column="2"-->
+                  <!--android:layout_columnSpan="1"-->
+                  <!--android:layout_row="1"-->
+                  <!--android:layout_rowSpan="1"-->
+                  <!--android:background="#0000FF"/>-->
+
+
+</GridLayout>
+
+
